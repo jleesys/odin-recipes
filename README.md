@@ -2,10 +2,10 @@
 The Odin Project
 <br>Project: Recipes
 
-Created a simple website using HTML ONLY (no CSS).
-Created a landing/index page with hyperlinks to 3 recipes.
-Each webpage has an image and associated text (utilizing headers, unordered/ordered lists, paragraphs, etc).
-Developed good practice with Git commands and maintaining a repository on GitHub.
+Created a simple website using HTML ONLY (no CSS).<br>
+Created a landing/index page with hyperlinks to 3 recipes.<br>
+Each webpage has an image and associated text (utilizing headers, unordered/ordered lists, paragraphs, etc).<br>
+Developed good practice with Git commands and maintaining a repository on GitHub.<br>
 
 Thoughts/Questions for pondering and research:
 I believe that some of these styling elements, like italics and bold, can also be done using CSS.
