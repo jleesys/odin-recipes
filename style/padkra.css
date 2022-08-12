@@ -11,3 +11,16 @@ h2.instruct {
     color: white;
     background-color: darkblue;
 }
+
+
+button#home-button {
+    padding: 3px;
+    margin: 25px;
+    width: 10%;
+    height: 30px;
+    outline-style:double;
+    outline-width: 6px;
+    outline-color: purple;
+    border-radius: 20px;
+    background-color: rgb(213, 51, 213);
+}
