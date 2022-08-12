@@ -14,13 +14,16 @@ h2.instruct {
 
 
 button#home-button {
+    display: block;
     padding: 3px;
-    margin: 0px 20px;
-    width: 10%;
+    margin: auto;
+    width: 150px;
     height: 30px;
-    outline-style:double;
+    outline-style:groove;
     outline-width: 6px;
-    outline-color: purple;
+    outline-color: darkblue;
     border-radius: 20px;
-    background-color: rgb(213, 51, 213);
+    background-color: crimson;
+    color: white;
+    font-weight: 700;
 }

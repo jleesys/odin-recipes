@@ -32,16 +32,29 @@ html {
 }
 
 button#home-button {
+    display: block;
     padding: 3px;
-    margin: 0px 20px;
-    width: 10%;
+    margin: auto;
+    width: 150px;
     height: 30px;
-    outline-style:double;
+    outline-style:groove;
     outline-width: 6px;
-    outline-color: purple;
+    outline-color: red;
     border-radius: 20px;
-    background-color: rgb(213, 51, 213);
+    background-color: blue;
+    color: white;
+    font-weight: 700;
 }
+
+/*
+button#home-button {
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    height: 30px;
+
+}
+*/
 
 /* #spice-list { */
 /*h4 {
