@@ -22,7 +22,7 @@ html {
 
 button#home-button {
     padding: 3px;
-    margin: 25px;
+    margin: 0px 20px;
     width: 10%;
     height: 30px;
     outline-style:double;
