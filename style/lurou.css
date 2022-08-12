@@ -1,8 +1,35 @@
-.lurou-image {
-    width: 300;
-    height: auto;
+#lurou-image {
+    width: auto;
+    height: 600px;
 }
 
 li {
-    color: blue;
+
 }
+
+.subtitle {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.header.ingred {
+    background-color: rgb(16, 16, 139);
+
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.header.instruct {
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+/* #spice-list { */
+/*h4 {
+    margin: auto;
+    text-align: center;
+    width: 450px;
+} */

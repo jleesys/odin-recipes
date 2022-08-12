@@ -1,0 +1,16 @@
+.instruct, .ingred {
+
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.instruct {
+    color: red;
+    background-color: silver;}
+
+.ingred {
+    color: white;
+    background-color: red;
+
+}
