@@ -44,6 +44,7 @@ div .flex-container {
     font-size: 20px;
     border-radius: 15px;
     font-family: "Open Sans", sans-serif;
+    cursor:pointer;
 }
 
 .flex-container button:hover {
