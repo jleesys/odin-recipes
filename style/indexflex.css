@@ -19,14 +19,14 @@ img {
     border: 3px solid;
     outline-style: groove;
     outline-width: 5px;
-    outline-color: blue;
+    outline-color: green;
 
 }
 
 .title {
     text-align: center;
-    color: white;
-    background-color: red;
+    color: black;
+    background-color: aquamarine;
     font-size: 50px;
 }
 
@@ -45,12 +45,11 @@ div .flex-container {
     font-weight: 700;
     font-size: 20px;
     border-radius: 15px;
-    font-family: monospace;
+    font-family: "Open Sans", sans-serif;
 }
 
 .flex-container button:hover {
-    background-color: darkblue;
-    color: white;
+    background-color: aquamarine;
     font-weight: 700;
 }
 
