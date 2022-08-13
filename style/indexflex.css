@@ -5,6 +5,11 @@ img {
     width: 30%;
 }
 
+.alt-link {
+    text-align: right;
+    margin-right: 300px;
+}
+
 .recipes-list {
     margin: 20px auto;
     padding-bottom: 35px;
