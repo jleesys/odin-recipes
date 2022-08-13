@@ -33,12 +33,12 @@ li {
 div .flex-container {
     width: 100%;
     margin: 0 auto;
-    border: green 2px solid;
+/*    border: green 2px solid; */
     text-align: center;
 }
 
 .flex-container  button{
-    border: red 2px solid;
+/*    border: red 2px solid; */
     padding: 15px;
     padding-right: 25px;
     padding-left: 25px;
