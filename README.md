@@ -2,6 +2,10 @@
 The Odin Project
 <br>Project: Recipes
 
+UPDATE 2022/08/14
+Added CSS styling to index and recipe pages.
+Currently practicing flexbox layouts.
+
 Objectives achieved:<br>
 Created a simple website using HTML ONLY (no CSS).<br>
 Created a landing/index page with hyperlinks to 3 recipes.<br>
