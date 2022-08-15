@@ -1,15 +1,6 @@
 #lurou-image {
-    width: auto;
+    width: 450px;
     height: 600px;
-}
-
-li {
-
-}
-
-.subtitle {
-    font-size: 13px;
-    font-weight: 700;
 }
 
 .header.ingred {
@@ -37,7 +28,7 @@ button#home-button {
     margin: auto;
     width: 150px;
     height: 30px;
-    outline-style:groove;
+    outline-style: groove;
     outline-width: 6px;
     outline-color: red;
     border-radius: 20px;
@@ -46,19 +37,58 @@ button#home-button {
     font-weight: 700;
 }
 
-/*
-button#home-button {
-    display: block;
-    width: 150px;
-    margin: 0 auto;
-    height: 30px;
 
+
+/* flexbox stuff */
+.image-text-container {
+    /* border: 2px red solid; */
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row;
 }
-*/
 
-/* #spice-list { */
-/*h4 {
-    margin: auto;
-    text-align: center;
-    width: 450px;
-} */
+#lurou-image {
+    flex: 0 1 auto;
+}
+
+div.subtitle {
+    /*border: purple 4px solid; */
+    margin-left: 15px;
+    width: 900px;
+    flex: 1 1 auto;
+
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+div.text-1 {
+/*    border: 2px green solid; */
+    flex: 1 1 auto;
+}
+
+div.images-container {
+/*    border: 2px blue solid; */
+    flex: 1 1 auto;
+
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+
+
+.row-image-1,.row-image-2,.row-image-3 { 
+    width: 400px;
+    height: 250px;
+    flex: 0 1 auto;
+}
+
+/*
+.row-image-1,
+.row-image-2,
+.row-image-3 {
+    flex: 1 1 0;
+    width: 400px;
+    height: 250px;
+}
