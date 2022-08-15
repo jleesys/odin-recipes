@@ -52,7 +52,7 @@ button#home-button {
 }
 
 div.subtitle {
-    /*border: purple 4px solid; */
+    /* border: purple 4px solid; */
     margin-left: 15px;
     width: 900px;
     flex: 1 1 auto;
@@ -63,12 +63,12 @@ div.subtitle {
 }
 
 div.text-1 {
-   border: 2px green solid;
+   /* border: 2px green solid; */
     flex: 0 1 auto;
 }
 
 div.images-container {
-   border: 2px blue solid;
+   /* border: 2px blue solid; */
     flex: 0 1 auto;
 
     display: flex;
