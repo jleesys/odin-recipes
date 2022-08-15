@@ -63,25 +63,24 @@ div.subtitle {
 }
 
 div.text-1 {
-/*    border: 2px green solid; */
-    flex: 1 1 auto;
+   border: 2px green solid;
+    flex: 0 1 auto;
 }
 
 div.images-container {
-/*    border: 2px blue solid; */
-    flex: 1 1 auto;
+   border: 2px blue solid;
+    flex: 0 1 auto;
 
     display: flex;
     flex-flow: row;
     flex-wrap: wrap;
-    align-content: flex-end;
 }
 
 
 .row-image-1,.row-image-2,.row-image-3 { 
     width: 400px;
     height: 250px;
-    flex: 0 1 auto;
+    flex: 0 1 0;
     margin-right: 5px;
 }
 
