@@ -2,6 +2,10 @@
 The Odin Project
 <br>Project: Recipes
 
+My first webpage.
+Check it out!
+https://jleesys.github.io/odin-recipes/index.html
+
 UPDATE 2022/08/14
 Added CSS styling to index and recipe pages.
 Currently practicing flexbox layouts.
